@@ -1,0 +1,7 @@
+D:\Visual Studio\ECG\ECG\obj\Debug\ECG.csprojAssemblyReference.cache
+D:\Visual Studio\ECG\ECG\bin\Debug\ECG.exe.config
+D:\Visual Studio\ECG\ECG\bin\Debug\ECG.exe
+D:\Visual Studio\ECG\ECG\bin\Debug\ECG.pdb
+D:\Visual Studio\ECG\ECG\obj\Debug\ECG.csproj.CopyComplete
+D:\Visual Studio\ECG\ECG\obj\Debug\ECG.exe
+D:\Visual Studio\ECG\ECG\obj\Debug\ECG.pdb
