@@ -1,7 +1,0 @@
-D:\Visual Studio\ECG\ECG\bin\x64\Debug\ECG.exe.config
-D:\Visual Studio\ECG\ECG\bin\x64\Debug\ECG.exe
-D:\Visual Studio\ECG\ECG\bin\x64\Debug\ECG.pdb
-D:\Visual Studio\ECG\ECG\bin\x64\Debug\bioPlux_dotNet.dll
-D:\Visual Studio\ECG\ECG\obj\x64\Debug\ECG.csproj.CopyComplete
-D:\Visual Studio\ECG\ECG\obj\x64\Debug\ECG.exe
-D:\Visual Studio\ECG\ECG\obj\x64\Debug\ECG.pdb

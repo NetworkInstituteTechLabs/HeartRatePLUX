@@ -57,7 +57,7 @@
   <ItemGroup>
     <Reference Include="bioPlux_dotNet, Version=1.0.6289.28025, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\bioPlux_dotNet.dll</HintPath>
+      <HintPath>.\bioPlux_dotNet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
